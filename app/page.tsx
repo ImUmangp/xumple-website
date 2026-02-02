@@ -340,7 +340,7 @@ function ServicesCarousel() {
   const services = [
     {
       title: "VIDEO EDITING",
-      subtitle: "Vlogs, Tutorials, Educational etc.",
+      subtitle: "Vlogs, Tutorials, Educationals etc.",
       desc:
         "Transform your raw footage into stunning, engaging videos with our professional video editing services. From concept to delivery, we bring your story to life.",
     },
